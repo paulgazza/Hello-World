@@ -1,0 +1,45 @@
+ +          Q1
+ +          set<String> set = Hashset<>(wordlist);
+ +          return set.size();
+ +          }
+ +
+ +
+ +
+ +           Q2
+ +           {
+ +           Mycomperator mycomp = new mycomperator();
+ +           Treeset<String> Treeset= newtreeset(mycomp);
+ +           treeset.addall(wordlist);
+ +           System.out.println("list of different words");
+ +           for (String s:treeset){System.out.println(S);
+ +           }
+ +           } 
+ +           Q3
+ +           Map<String,Integer> myMap= Hashmap<>();
+ +           for(String s: wordlist) { 
+ +           if (myMap has key(s)),myMap.put(s,myMap.get(S)+1);
+ +           }
+ +           {
+ +            else myMap.put (s,1);
+ +           for (Map.Entry<String>,Integer> enrty.getkey()+":+ entry.getValue());
+ +           }
+ +           }
+ +            Q4
+ +           {
+ +            System.out.println("\nСтроки в обратном порядке:");
+ +            for (int i = stringsList.size() - 1; i >= 0; i--) {
+ +           System.out.println(stringsList.get(i));
+ +           }
+ +           }
+
+ +            Q5
+ +            System.out.println("Задание 5. Обратный итератор: ");
+ +            ReverseIterator ri = new ReverseIterator(arrayList);
+ +            ListIterator<String> li = arrayList.listIterator();
+ +             while (ri.hasNext()){
+ +            String s = ri.next().toString();
+ +            if (s.equals("В")){
+ +            System.out.println(myIterator.next())
+ +            }
+ +            }
+ 
